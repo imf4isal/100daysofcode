@@ -13,3 +13,7 @@
  * practiced properties of css selectors, css flexbox, css grid
  * learned about The Box model in detail-how different type of box model works, display and it's properties, how margin and padding work under the hood,and also learned about how margin collapsing happen and when it behaves abnormally etc.  
   
+### day 2
+
+- [x] linear search algorithm
+  * solved 7 questions including 2 leetcode problems on linear search in array.

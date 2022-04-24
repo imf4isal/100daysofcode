@@ -17,3 +17,9 @@
 
 - [x] linear search algorithm
   * solved 7 questions including 2 leetcode problems on linear search in array.
+
+### day 3
+
+- [x] binary search algorithm fundamental
+  * solved 4 questions
+  * learned about agnostic sorting problems in binary search.

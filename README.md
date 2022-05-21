@@ -1,7 +1,7 @@
 ## 100daysofcode
 
 ### day 0
-- [x] sorting algorithms fundamental
+- [x] recursion and function execution process fundamental
 #### learned fundamental of -
 - [x] space and time complexity
 - [x] notation- big O, big Omega, little Omega, little O, Theta

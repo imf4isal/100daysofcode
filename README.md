@@ -1,6 +1,6 @@
 ## 100daysofcode
 
-### day 0
+### day 0(21th May,2022)
 - [x] recursion and function execution process fundamental
 #### learned fundamental of -
 - [x] space and time complexity

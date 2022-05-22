@@ -8,7 +8,7 @@
 - [x] time and space complexity of linear and binary search, cyclic sort, bubble sort, selection sort, insertion sort
 * solved 7 problems(array) on leetcode 
 
-### day 0 (22th May)
+### day 1 (22th May)
 *bitwise operator (and,or,xor,left shift and right shift) 
 *number system- convertion of number system, negative of 
  binary, range for n bits(including formula)

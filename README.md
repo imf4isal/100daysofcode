@@ -1,9 +1,8 @@
 ## 100daysofcode
 
-### day 0 (3rd June,2022)
+### day 0 (15th June,2022)
 
 **revisited and studied about the fundamental concepts of-
-- [x] react virtual DOM
-- [x] jsx
-- [x] react component and props
-- [x] state, lifting state up, controlled vs uncontrolled component 
+- [x] react higher order components and render props pattern
+- [x] lifting state up.
+- [x] react context api

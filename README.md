@@ -1,8 +1,5 @@
 ## 100daysofcode
 
-### day 0 (15th June,2022)
+### day 0 (16 August,2022)
 
-**revisited and studied about the fundamental concepts of-
-- [x] react higher order components and render props pattern
-- [x] lifting state up.
-- [x] react context api
+https://github.com/mdfaisalabdullah/100daysofcode/blob/main/day0.png

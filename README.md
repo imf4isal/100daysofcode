@@ -2,4 +2,8 @@
 
 ### day 0 (16 August,2022)
 
-(https://github.com/mdfaisalabdullah/100daysofcode/blob/main/day0.png)
+<img
+  src="[/path/to/img.jpg](https://raw.githubusercontent.com/mdfaisalabdullah/100daysofcode/main/day0.png)"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">

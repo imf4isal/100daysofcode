@@ -1,6 +1,6 @@
 ## 100daysofcode
 
-### day 0 (16 August,2022)
+### day 0 _16 August, '22
 
 <img
   src="https://raw.githubusercontent.com/mdfaisalabdullah/100daysofcode/main/day0.png"
@@ -9,7 +9,7 @@
   style="display: inline-block; margin: 0 auto; width: 300px">
 
 
-### day 1 (17 August,2022)
+### day 1 _17 August,'22
 
 <img
   src="https://raw.githubusercontent.com/mdfaisalabdullah/100daysofcode/main/day1.png"

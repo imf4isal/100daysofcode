@@ -16,3 +16,12 @@
   alt="day 0"
   title="day 0"
   style="display: inline-block; margin: 0 auto; width: 300px">
+
+
+### day 2 _20 August,'22
+
+<img
+  src="https://raw.githubusercontent.com/mdfaisalabdullah/100daysofcode/main/day2.png"
+  alt="day 0"
+  title="day 0"
+  style="display: inline-block; margin: 0 auto; width: 300px">

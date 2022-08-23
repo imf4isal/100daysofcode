@@ -38,7 +38,7 @@
 ### day 4 _22 August,'22
 
 <img
-  src="https://raw.githubusercontent.com/mdfaisalabdullah/100daysofcode/main/day3.png"
+  src="https://raw.githubusercontent.com/mdfaisalabdullah/100daysofcode/main/day4.png"
   alt="day 0"
   title="day 0"
   style="display: inline-block; margin: 0 auto; width: 300px">
